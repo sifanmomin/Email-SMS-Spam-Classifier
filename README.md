@@ -76,7 +76,7 @@ The project was deployed using Streamlit, enabling an interactive web interface 
 
 Clone the repository:
 
-git clone https://github.com/your-username/email-sms-spam-classifier.git
+git clone [https://github.com/your-username/email-sms-spam-classifier.git](https://github.com/sifanmomin/Email-SMS-Spam-Classifier.git)
 
 Install dependencies:
 
