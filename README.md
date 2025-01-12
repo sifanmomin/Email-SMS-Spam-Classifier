@@ -1,8 +1,8 @@
-Email/SMS Spam Classifier
+#Email/SMS Spam Classifier
 
 This repository contains a machine learning project aimed at classifying emails and SMS messages as spam or not spam (ham). The project leverages natural language processing (NLP) techniques and machine learning algorithms to build an effective spam detection system.
 
-Project Overview
+#Project Overview
 
 The primary goal of this project is to develop a robust spam classifier using various machine learning approaches. The key highlights of the project include:
 
@@ -14,11 +14,11 @@ Model Optimization: Explored ensemble methods such as Voting Classifier and Stac
 
 Final Model: Selected the MNB classifier with TF-IDF due to its optimal performance.
 
-Dataset
+#Dataset
 
 The dataset used for this project was sourced from the UCI ML repository, containing labeled SMS and email messages as spam or ham.
 
-Data Preprocessing
+#Data Preprocessing
 
 Removed missing values and duplicates.
 
@@ -34,17 +34,17 @@ Lemmatization
 
 Methodology
 
-1. Exploratory Data Analysis (EDA)
+#1. Exploratory Data Analysis (EDA)
 
 Analyzed the distribution of spam vs. ham messages.
 
 Visualized common words in both spam and ham messages.
 
-2. Feature Extraction
+#2. Feature Extraction
 
 Utilized TF-IDF vectorizer to transform text data into numerical format.
 
-3. Model Building
+#3. Model Building
 
 Experimented with multiple classifiers:
 
@@ -56,7 +56,7 @@ Stacking Classifier
 
 Evaluated model performance using metrics like accuracy, precision, recall, and F1-score.
 
-4. Final Model
+#4. Final Model
 
 The MNB classifier with TF-IDF vectorization was chosen as the final model due to its simplicity and efficiency.
 
@@ -72,7 +72,7 @@ Deployment
 
 The project was deployed using Streamlit, enabling an interactive web interface for users to input messages and classify them as spam or ham.
 
-How to Run
+#How to Run
 
 Clone the repository:
 
