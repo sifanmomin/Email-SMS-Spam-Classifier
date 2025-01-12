@@ -1,5 +1,5 @@
-#Email/SMS Spam Classifier
-
+##Email/SMS Spam Classifier
+## app demo - https://email-sms-spam-classifier-qwe6xxspikhlqf3piyejmb.streamlit.app/#spam
 This repository contains a machine learning project aimed at classifying emails and SMS messages as spam or not spam (ham). The project leverages natural language processing (NLP) techniques and machine learning algorithms to build an effective spam detection system.
 
 #Project Overview
