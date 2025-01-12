@@ -1,5 +1,3 @@
-requriment 
-
-streamlit
 nltk
 sklearn
+streamlit
