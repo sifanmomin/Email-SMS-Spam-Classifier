@@ -1,0 +1,5 @@
+requriment 
+
+streamlit
+nltk
+sklearn
